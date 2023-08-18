@@ -14,4 +14,16 @@
     color: rgb(146, 83, 204);
     margin-bottom: 7px;
     text-align: center;
+    font-family: 'Great Vibes', cursive;
+}
+@media screen and (min-width:1024px) {
+    .titulo{
+        font-size: 30px; 
+        text-align: center;
+        display: block;
+    }
+    .Imagem{
+        width: 180px!important;
+        height: 120px!important;
+    }
 }
